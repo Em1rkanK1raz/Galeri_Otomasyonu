@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|c:\\users\\huawei\\onedrive\\masa\u00FCst\u00FC\\c#dersleri\\galeri_otomasyonu\\galeri_otomasyonu\\form_araclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\form_araclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\form_satislar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\form_satislar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\form_musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\form_musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\form_satislar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\form_satislar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\form_araclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\form_araclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\form_musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\form_musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\classdiagramgaleri.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\classdiagramgaleri.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\galeridbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\galeridbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\araclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\araclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\durum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\durum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\satis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\satis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\yakit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\yakit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\galeri_otomasyonu\\vites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C559C1B8-A8CB-4E9A-B1E8-0C14927838D4}|Galeri_Otomasyonu\\Galeri_Otomasyonu.csproj|solutionrelative:galeri_otomasyonu\\vites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassDiagramGaleri.cd",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\ClassDiagramGaleri.cd",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\ClassDiagramGaleri.cd",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\ClassDiagramGaleri.cd",
+              "RelativeToolTip": "Galeri_Otomasyonu\\ClassDiagramGaleri.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2026-05-22T09:50:52.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_Satislar.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Form_Satislar.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\Form_Satislar.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Form_Satislar.cs",
+              "RelativeToolTip": "Galeri_Otomasyonu\\Form_Satislar.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAuwNMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:34:20.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_Satislar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Form_Satislar.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\Form_Satislar.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Form_Satislar.cs [Design]",
+              "RelativeToolTip": "Galeri_Otomasyonu\\Form_Satislar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:18:17.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\App.config",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\App.config",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\App.config",
+              "RelativeToolTip": "Galeri_Otomasyonu\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-20T14:03:48.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_Araclar.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Form_Araclar.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\Form_Araclar.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Form_Araclar.cs",
+              "RelativeToolTip": "Galeri_Otomasyonu\\Form_Araclar.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T13:15:38.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Araclar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Form_Araclar.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\Form_Araclar.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Form_Araclar.cs [Design]",
+              "RelativeToolTip": "Galeri_Otomasyonu\\Form_Araclar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:42:42.223Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\AnaMenu.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\AnaMenu.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\AnaMenu.cs",
+              "RelativeToolTip": "Galeri_Otomasyonu\\AnaMenu.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowCYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:29:40.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnaMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\AnaMenu.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\AnaMenu.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\AnaMenu.cs [Design]",
+              "RelativeToolTip": "Galeri_Otomasyonu\\AnaMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:19:25.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Satis.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Satis.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\Satis.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Satis.cs",
+              "RelativeToolTip": "Galeri_Otomasyonu\\Satis.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:04:48.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Durum.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Durum.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\Durum.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Durum.cs",
+              "RelativeToolTip": "Galeri_Otomasyonu\\Durum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:56:36.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Yakit.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Yakit.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\Yakit.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Yakit.cs",
+              "RelativeToolTip": "Galeri_Otomasyonu\\Yakit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:54:57.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Araclar.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Araclar.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\Araclar.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Araclar.cs",
+              "RelativeToolTip": "Galeri_Otomasyonu\\Araclar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:41:52.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vites.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Vites.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\Vites.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Vites.cs",
+              "RelativeToolTip": "Galeri_Otomasyonu\\Vites.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:31:50.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form_Musteriler.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Form_Musteriler.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\Form_Musteriler.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Form_Musteriler.cs",
+              "RelativeToolTip": "Galeri_Otomasyonu\\Form_Musteriler.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwGsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T15:41:31.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GaleriDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\GaleriDbContext.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\GaleriDbContext.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\GaleriDbContext.cs",
+              "RelativeToolTip": "Galeri_Otomasyonu\\GaleriDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T15:22:36.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Musteri.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\Musteri.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Musteri.cs",
+              "RelativeToolTip": "Galeri_Otomasyonu\\Musteri.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T15:03:44.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_Musteriler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Form_Musteriler.cs",
+              "RelativeDocumentMoniker": "Galeri_Otomasyonu\\Form_Musteriler.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Masa\u00FCst\u00FC\\C#dersleri\\Galeri_Otomasyonu\\Galeri_Otomasyonu\\Form_Musteriler.cs [Design]",
+              "RelativeToolTip": "Galeri_Otomasyonu\\Form_Musteriler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:51:01.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
